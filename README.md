@@ -1,3 +1,2 @@
-# machine learning from scratch
+# MAD (Machine learning, Artificial Intelligence, Deep Learning) stuffs
 
-In this repo i'm trying to build machine learning model form scratch, only using python and math
